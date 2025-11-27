@@ -5,4 +5,4 @@ function Biryani(){
     )
 }
 
-export default Biryani
+export default Biryani;
